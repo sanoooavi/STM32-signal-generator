@@ -2,6 +2,9 @@
 
 This repository contains a project that demonstrates SPI communication between two STM32 microcontroller boards. The project utilizes Proteus for simulation and Keil as the development environment, along with the STM32 HAL library for firmware development.
 
+https://github.com/sanoooavi/STM32-signal-generator/assets/81512968/ad18a7f9-f83e-4ffd-a8f0-801d2cec8ff9
+
+
 ## Features
 
 - Establishes SPI communication between two STM32 microcontroller boards.
